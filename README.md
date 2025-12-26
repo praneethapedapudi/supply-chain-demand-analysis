@@ -4,6 +4,8 @@ An end-to-end, production-style data analytics system that ingests raw retail sa
 
 This project is designed to resemble real-world retail, e-commerce, and logistics analytics pipelines rather than a toy ML demo.
 
+🌐 **Live Application**: [https://supply-chain-demand-analysis.streamlit.app/](https://supply-chain-demand-analysis.streamlit.app/)
+
 ---
 
 ## Overview
