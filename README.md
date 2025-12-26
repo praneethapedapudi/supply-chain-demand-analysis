@@ -37,7 +37,7 @@ The system is robust to missing columns, noisy schemas, and mixed aggregation le
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
 
