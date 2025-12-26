@@ -8,7 +8,7 @@ An end-to-end, production-ready data analytics system that ingests raw retail sa
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -23,7 +23,7 @@ An end-to-end, production-ready data analytics system that ingests raw retail sa
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Retail companies often receive sales data in inconsistent formats with varying column names, encodings, and granularity levels. This system solves that problem by automatically:
 
@@ -57,15 +57,15 @@ The system is robust to missing columns, noisy schemas, and mixed aggregation le
 
 ### Key Highlights
 
-- ✅ No manual schema configuration required
-- ✅ Automatic measure column inference
-- ✅ Graceful fallback mechanisms
-- ✅ Production-grade error handling
-- ✅ Support for multiple file formats (CSV, Excel)
+- No manual schema configuration required
+- Automatic measure column inference
+- Graceful fallback mechanisms
+- Production-grade error handling
+- Support for multiple file formats (CSV, Excel)
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ The system is robust to missing columns, noisy schemas, and mixed aggregation le
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -126,7 +126,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Running the Streamlit App
 
@@ -166,7 +166,7 @@ Optional:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 supply-chain-demand-analysis/
@@ -219,7 +219,7 @@ supply-chain-demand-analysis/
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Python 3.10+**: Core programming language
 - **Streamlit**: Interactive web application framework
@@ -231,7 +231,7 @@ supply-chain-demand-analysis/
 
 ---
 
-## 🔄 How It Works
+## How It Works
 
 ### Pipeline Flow
 
@@ -261,7 +261,7 @@ The system uses a **defensive, multi-layered approach**:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -273,27 +273,19 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
-
-**Praneeth A Pedapudi**
-
-- GitHub: [@praneethapedapudi](https://github.com/praneethapedapudi)
-- Project Link: [https://github.com/praneethapedapudi/supply-chain-demand-analysis](https://github.com/praneethapedapudi/supply-chain-demand-analysis)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
 - LLM integration powered by [Groq](https://groq.com/)
 - Data processing with [Pandas](https://pandas.pydata.org/)
 
 ---
-
-**⭐ If you find this project useful, please consider giving it a star!**
